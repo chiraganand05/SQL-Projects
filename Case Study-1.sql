@@ -40,7 +40,8 @@ FROM tutorial.sat_scores;
 
 
 
--- WAQ wrt above Query only -> add two additional col - max_per_teacher and min_per_teacher. Each of these columns must include maximum and minimum marks in sat_math per teacher respectively.
+-- WAQ wrt above Query only -> add two additional col - max_per_teacher and min_per_teacher. 
+-- Each of these columns must include maximum and minimum marks in sat_math per teacher respectively.
 SELECT *, 
 AVG(sat_writing) OVER(PARTITION BY school ORDER BY school) AS avg_sat_writing,
 COUNT(student_id) OVER(PARTITION BY school ORDER BY school) AS count_per_school,
