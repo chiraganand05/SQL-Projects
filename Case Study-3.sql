@@ -1,5 +1,4 @@
---Using exported data from 'mode.com' in 'MySQL Workbench'
---In this case study we are using 'kag_conversion_data'
+## In this case study we are using exported data 'kag_conversion_data' from 'mode.com' in 'MySQL Workbench'
 
 --WAQ to display all the records in the table kag_conversion_data
   SELECT * FROM kag_conversion_data;
