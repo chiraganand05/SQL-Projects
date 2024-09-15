@@ -1,4 +1,4 @@
--- In this case study, we use "tutorial" dataset and "sat_scores" table from mode.com
+-- In this case study, we use "tutorial" database and "sat_scores" table from mode.com
 
 
 -- Extracting the data from sat_scores table
