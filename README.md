@@ -1,17 +1,14 @@
 # SQL Projects 
-### Hello folks 
-
-This section of SQL Case Study uses data from mode.com website. It's free to use, you just have to sign in. They have a huge resource of datasets to practice.
-
-Steps I followed:
-
-Login to mode.com
-Export the required dataset(by default .csv format)
-Open your MySQL Workbench.
-Create a new database 'casestudies' using command 'create database casestudies'
-Run the SQL command 'use casestudies' to work in the specific database
-Import the .csv dataset downloaded from mode.com
-The .csv dataset will be imported in current database i.e., 'casestudies'
+## Hello folks 
+This SQL project uses datasets from mode.com. 
+Sign up in mode.com then click on the "+" sign, we will get the SQL editor where we are going to execute our SQL queries.
 Run 'Select * from table_name' to view your imported dataset.
+Let's jump right into deriving useful insights from various datasets.
 
-Once all above steps are performed successfully, jump right into deriving insights from your data. Yay, happy exploring :)
+
+  
+
+
+
+
+
