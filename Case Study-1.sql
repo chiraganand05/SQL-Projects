@@ -1,7 +1,6 @@
--- In this case study, we use "tutorial" database and "sat_scores" table from mode.com
+-- In this case study, i'm using "tutorial" database and "sat_scores" table from mode.com
 
-
--- Extracting the data from sat_scores table
+--Write a query to display all the records in the table tutorial.sat_scores
 SELECT * FROM tutorial.sat_scores;
 
 --Aggregate Functions on different columns
