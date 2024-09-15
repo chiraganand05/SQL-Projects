@@ -1,6 +1,6 @@
 # SQL Projects 
 
-###This SQL project uses datasets from mode.com website. 
+### This SQL project uses datasets from mode.com website. 
 
 To get started, sign up on mode.com and click on the "+" sign to access the SQL editor. 
 
