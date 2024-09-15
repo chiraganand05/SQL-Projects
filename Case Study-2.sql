@@ -1,4 +1,4 @@
--- In this case study, we use "tutorial" database and "oscar_nominees" table from mode.com
+-- In this case study, i'm using "tutorial" database and "oscar_nominees" table from mode.com
 
 
 -- WRQ to display all the records in the table tutorial.oscar_nominees
