@@ -3,7 +3,6 @@
 ### This SQL project uses datasets from mode.com website. 
 
 To get started, sign up on mode.com and click on the "+" sign to access the SQL editor. 
-
 Here, you can go ahead and execute your SQL queries. (Case Study-1 and Case Study-2 are executed on mode.com)
 
 We've used datasets from mode.com in our MySQL workbench (Case Study-3 and Case Study-4)
