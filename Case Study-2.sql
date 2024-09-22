@@ -1,6 +1,5 @@
  --In this case study i'm using exported data 'oscar_nominees' from 'mode.com' in 'MySQL Workbench'
 
-
 -- WRQ to display all the records in the table tutorial.oscar_nominees
 SELECT  * FROM  oscar_nominees;
 
